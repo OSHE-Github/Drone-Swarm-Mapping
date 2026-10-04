@@ -1,0 +1,5 @@
+/mapping_results/
+/image_frames/
+/__pycache__/
+/video_file/*
+/.venv/
