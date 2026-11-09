@@ -1,5 +1,7 @@
 /mapping_results/
 /image_frames/
+*/__pycache__/
 /__pycache__/
 /video_file/*
 /.venv/
+/mapping_results_ortho/
